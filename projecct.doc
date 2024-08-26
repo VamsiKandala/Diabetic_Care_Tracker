@@ -1,0 +1,275 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Text To Word</title></head><body><p>Project idea: Develop a system to track diabetes data and uses three password authentication techniques for login (concentration on login and password authentication).</p>
+<p>&nbsp;</p>
+<p>Read fully and carefully.</p>
+<p>&nbsp;</p>
+<p>Instructions</p>
+<p>&nbsp;</p>
+<p>You can use any programming language, software, application, tools, etc. that you are conformable using. Expect minimal help from faculty.</p>
+<p>Remember that this is a one-person project. You will not be working in groups to finish this project, but you will involve others in testing and evaluating your project. Similarities will be flagged as cheating, all involved will get a zero and all will be reported to Graduate Dean.</p>
+<p>You have the freedom to design your system the way you want. Be creative and know your strengths and choose programming languages, software, etc. that will help you complete the project within the assigned time and submit a working project.</p>
+<p>By uploading your document and copy of the code, you agree that the work you have provided is your own work (you did it from scratch) and did not copy/use someone else code or got it from web, etc.</p>
+<p>For this activity you will submit ONE word document.</p>
+<p>System description:</p>
+<p>&nbsp;</p>
+<p>Allow the user to Register/create new account.</p>
+<p>Allow the user to reset password if they forgot password.</p>
+<p>If this is the first time to use the system, the user needs to register/ create a new account. Your system will collect the following information.</p>
+<p>Full Name</p>
+<p>Email</p>
+<p>Phone number</p>
+<p>Date of birth</p>
+<p>Username</p>
+<p>First password: users should choose passwords with a combination of both letters (uppercase and lowercase), numbers, and symbols. A strong password should be at least eight characters in length.</p>
+<p>When a user enters a password, your system should check password strength and let the user know if they need to change it to a stronger password.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>The password is case sensitive. Meaning that &lsquo;Abc&rsquo; is not the same as &lsquo;abc&rsquo;</p>
+<p>&nbsp;</p>
+<p>Second password: the user must choose three questions from a list, and provide an answers to the questions or write their own question and answer.</p>
+<p>The user must choose at least 3 questions.</p>
+<p>&nbsp;</p>
+<p>The following list provides some examples of good questions:</p>
+<p>&nbsp;</p>
+<p>What is the name of a college you applied to but didn&rsquo;t attend?</p>
+<p>What was the name of the first school you remember attending?</p>
+<p>Where was the destination of your most memorable school field trip?</p>
+<p>What was your math&rsquo;s teacher's surname in your 8th year of school?</p>
+<p>What was the name of your first stuffed toy?</p>
+<p>What was your driving instructor's first name?</p>
+<p>Your system should also allow the user to create their own questions if they don&rsquo;t like any of the above.</p>
+<p>Third password: choose a picture. Your system will display 9x9 different pictures during set up time and the user will choose one of them. Eventually, each time the user logs in, your system will display the 9x9 pictures and the user must choose the correct one. Choose pictures of cars, traffic lights, trees, etc. (appropriate pictures).</p>
+<p>Once done, user will click save and exit.</p>
+<p>If user needs to reset password /forgot password, your system will ask the user to enter their email address and then click on submit request. An email will be sent to them with a temp password.</p>
+<p>User can sign in/ login by entering their username and the three passwords.</p>
+<p>User should be able to change passwords.</p>
+<p>Your system should store the information. You choose how you want to store and retrieve information. You will need to include a picture of that.</p>
+<p>User will fill out diabetes related data that are:</p>
+<p>Date</p>
+<p>Time and Blood sugar level fasting/ before breakfast</p>
+<p>Time and What they ate for breakfast.</p>
+<p>Time and What they ate for lunch.</p>
+<p>Time and What they ate for dinner.</p>
+<p>Time and Blood sugar level after 2 hours of eating dinner</p>
+<p>The system should allow having missing data. For example, the user did not enter test blood sugar in morning or at night.</p>
+<p>&nbsp;</p>
+<p>System will be able to display the collected data in a table format.</p>
+<p>Date</p>
+<p>&nbsp;</p>
+<p>Blood sugar level in am</p>
+<p>&nbsp;</p>
+<p>Breakfast menu</p>
+<p>&nbsp;</p>
+<p>Lunch menu</p>
+<p>&nbsp;</p>
+<p>Dinner menu</p>
+<p>&nbsp;</p>
+<p>Blood sugar level in am</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Steps / Content of word document / Grading Matrix</p>
+<p>&nbsp;</p>
+<p>Your submission and word document MUST follow the exact order next, or you will lose points for that section. Note: each bullet will have the grade of that section is in (), section title is in bold font, content section in regular font. In your word document, start each section with the bold title (listed in bold next)</p>
+<p>&nbsp;</p>
+<p>(2 points) Title ( your name, class number, semester, year, Project title, name of faculty &lsquo;Dr. Amer&rsquo;) in bold font</p>
+<p>(2 points) Summary. Provide a summary of what your project is about. State the objectives of the work.</p>
+<p>(2 points) Design goals. Compile a list of usability and user experience goals using design goals.</p>
+<p>(2 points) Questions. Transfer them to questions using design goals.&nbsp;</p>
+<p>(2 points ) Main tasks. Identify users' needs and identify user requirements and then list main tasks.</p>
+<p>(2 points) Models. Come up with a conceptual model and elect a mental model from people.</p>
+<p>(6 points) Design. Explain the design idea, design considerations, and design issues for the programming component and the interface component (A good interface is what attracts the user to use and re-use your system).&nbsp;</p>
+<p>(2 points) Functionalities List what functionalities it will provide.</p>
+<p>(2 points) Tools. List/explain what programming languages/software/tools/devices, etc. you used to implement the system.</p>
+<p>Implementation: Use whatever programming language, tool, application, etc. that you are comfortable using. Expect minimal help from faculty and GA regarding implementing your system.</p>
+<p>(2 points) List all implementation decisions.</p>
+<p>&nbsp;</p>
+<p>Your implementation will be graded according to the following:</p>
+<p>&nbsp;</p>
+<p>Meaning</p>
+<p>&nbsp;</p>
+<p>Point Ranges</p>
+<p>&nbsp;</p>
+<p>the solution meets all criteria well</p>
+<p>&nbsp;</p>
+<p>In specific :</p>
+<p>&nbsp;</p>
+<p>The solution adequately addresses the problem at hand. Specifically:</p>
+<p>The solution clearly represents a good-faith attempt to address the requirements for the assignment.</p>
+<p>The program compiles, links, and executes.</p>
+<p>The program runs correctly (or at least appears to be correct based on testing done by the grader).</p>
+<p>The solution constitutes a high quality product expected of a professional. Specifically:</p>
+<p>The program is easy to read and to understand, i.e., it is well commented and adheres to the programming standards for layout and format.&nbsp;</p>
+<p>The general design of the program is clear and reasonable. For example, the program makes good use of classes, operations, etc.; and the algorithms used are appropriate for the task, are clearly explained, and are implemented in a sensible, understandable way.</p>
+<p>Comments are used to explain important sections of your code.</p>
+<p>100%</p>
+<p>&nbsp;</p>
+<p>the solution meets most criteria, but there is some room for improvement</p>
+<p>&nbsp;</p>
+<p>80-99%</p>
+<p>&nbsp;</p>
+<p>the solution is just satisfactory; it meets some criteria but there is significant room for improvement</p>
+<p>&nbsp;</p>
+<p>60-79%</p>
+<p>&nbsp;</p>
+<p>the solution is barely acceptable; there are serious shortcomings in meeting most criteria; it needs a lot of improvement</p>
+<p>&nbsp;</p>
+<p>40-59%</p>
+<p>&nbsp;</p>
+<p>the solution is not acceptable</p>
+<p>&nbsp;</p>
+<p>0-39%</p>
+<p>&nbsp;</p>
+<p>(3 points) User manual. Make sure to show how your program works (e.g., by going step by step using both sentences and showing print screens of how your system is used and produced output). This should be like a detailed manual. By following these steps and pictures, I and anyone should follow the same instructions and be able to use your system. It should consist of AT LEAST the following:</p>
+<p>Click Register/create new account</p>
+<p>Enter Full Name</p>
+<p>Enter Email</p>
+<p>Enter Phone number</p>
+<p>Enter Date of birth</p>
+<p>Enter User name</p>
+<p>Enter First password and check password strength</p>
+<p>Enter Second password and show the list of questions and choosing 2 questions from list and creating a new one.</p>
+<p>Enter Third password: display pictures and then choose a picture.</p>
+<p>click save and exit.</p>
+<p>Click on reset password /forgot password. Change the three passwords.</p>
+<p>click save and exit.</p>
+<p>Click sign in/ login by entering username and the three passwords.</p>
+<p>Click change password.</p>
+<p>Change one or more of the passwords.</p>
+<p>Click save passwords.</p>
+<p>Click on enter diabetes data.</p>
+<p>Repeat 4 times</p>
+<p>&nbsp;</p>
+<p>Enter Date</p>
+<p>Enter Time and Blood sugar level fasting/ before breakfast</p>
+<p>Enter Time and What they ate for breakfast</p>
+<p>Enter Time and What they ate for lunch</p>
+<p>Enter Time and What they ate for dinner</p>
+<p>Enter Time and Blood sugar level after 2 hours of eating dinner</p>
+<p>End repeat</p>
+<p>&nbsp;</p>
+<p>Click print report that displays all stored information as follows</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Date</p>
+<p>&nbsp;</p>
+<p>Blood sugar level in am</p>
+<p>&nbsp;</p>
+<p>Breakfast menu</p>
+<p>&nbsp;</p>
+<p>Lunch menu</p>
+<p>&nbsp;</p>
+<p>Dinner menu</p>
+<p>&nbsp;</p>
+<p>Blood sugar level in am</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Click save and exit.</p>
+<p>Click sign in/ login and enter username and successful entry of all passwords.</p>
+<p>Click save and exit.</p>
+<p>Click sign in/ login and enter username and failure to enter all password.</p>
+<p>Click sign in/ login and enter username and failure to enter one password out of 2.</p>
+<p>Click sign in/ login and enter username and failure to enter two passwords out of</p>
+<p>(5 points) Evaluation methods. Choose TWO evaluation methods to evaluate your system. List them here and explain why you choose these two evaluation methods.</p>
+<p>(5 points) evaluation forms. Develop the forms/questionnaire/etc. that you will use and give your testing subjects to evaluate/test your system. Include copies of the empty forms in your word document. Make sure to label them.</p>
+<p>(2 points) Issues. Identify the practical and ethical issues and how to deal with them.</p>
+<p>(46 points) Initial Testing. Follow the instructions of the user manual yourself and insert in this section pictures/ print screens for BEFORE and AFTER of your screens performing the following steps:</p>
+<p>(1 point) insert pictures of 1) your empty login DB/file , 2) your empty diabetes data DB/file, 3) your empty password 1 DB/file, 4) your empty password 2 DB/file, 5) your empty password 3 DB/file. &lt;insert picture of screen before and after&gt;</p>
+<p>(3 points) Click Register/create new account &lt;insert picture of screen before and after&gt;</p>
+<p>(1 points) Enter Full Name, Email, Phone number, Date of birth. &lt;insert picture of screen before and after&gt;</p>
+<p>(1 points) Enter Username &lt;insert picture of screen before and after&gt;</p>
+<p>(1 points) insert picture of login DB/file</p>
+<p>(3 points) Enter First password and check password strength &lt;insert picture of screen before and after&gt;</p>
+<p>(1 points) insert picture of password 1 DB/file</p>
+<p>(3 points) Enter Second password and show the list of questions and choosing 2 questions from list and creating a new one. &lt;insert picture of screen before and after&gt;</p>
+<p>(1 points) insert picture of password 2 DB/file</p>
+<p>(3 points) Enter Third password: display pictures and then choose a picture.</p>
+<p>click save and exit. &lt;insert picture of screen before and after&gt;</p>
+<p>(1 points) insert picture of password 3 DB/file</p>
+<p>(3 points) Click on reset password /forgot password. Change the three passwords.</p>
+<p>click save and exit. &lt;insert picture of screen before and after&gt;</p>
+<p>(3 points) Click sign in/ login by entering username and the three passwords.</p>
+<p>Click change password. &lt;insert picture of screen before and after&gt;</p>
+<p>(3 points) Change one or more of the passwords. &lt;insert picture of screen before and after&gt;</p>
+<p>Click save passwords. &lt;insert picture of screen before and after&gt;</p>
+<p>(4 points) Click on enter diabetes data.</p>
+<p>Repeat 4 times &lt;insert picture of screen before and after&gt;:&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>Enter Date</p>
+<p>Enter Time and Blood sugar level fasting/ before breakfast</p>
+<p>Enter Time and What they ate for breakfast</p>
+<p>Enter Time and What they ate for lunch</p>
+<p>Enter Time and What they ate for dinner</p>
+<p>Enter Time and Blood sugar level after 2 hours of eating dinner</p>
+<p>End Repeat</p>
+<p>&nbsp;</p>
+<p>(1 point) insert picture of diabetes data DB / file</p>
+<p>(5 points) Click print report that displays all stored information as follows&lt;insert picture of screen before and after&gt;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Date</p>
+<p>&nbsp;</p>
+<p>Blood sugar level in am</p>
+<p>&nbsp;</p>
+<p>Breakfast menu</p>
+<p>&nbsp;</p>
+<p>Lunch menu</p>
+<p>&nbsp;</p>
+<p>Dinner menu</p>
+<p>&nbsp;</p>
+<p>Blood sugar level in am</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Click save and exit.</p>
+<p>(2 points) Click sign in/ login and enter username and successful entry of all passwords. &lt;insert picture of screen before and after&gt;</p>
+<p>Click save and exit.</p>
+<p>(2 points) Click sign in/ login and enter username and failure to enter all password. &lt;insert picture of screen before and after&gt;</p>
+<p>Click save and exit.</p>
+<p>(2 points) Click sign in/ login and enter username and failure to enter one password out of 3. &lt;insert picture of screen before and after&gt;</p>
+<p>Click save and exit.</p>
+<p>(2 points) Click sign in/ login and enter username and failure to enter two passwords out of 3&lt;insert picture of screen before and after&gt;</p>
+<p>Click save and exit.</p>
+<p>(10 points) Subject Testing. Ask your 5 subjects to test the system and fill the evaluation forms. Collect the forms and take a picture and insert the pictures in the word document.</p>
+<p>For each subject, you will give them:</p>
+<p>&nbsp;</p>
+<p>User manual</p>
+<p>Evaluation form 1</p>
+<p>Evaluation form 2</p>
+<p>Collect from user both evaluation forms.</p>
+<p>&nbsp;</p>
+<p>(5 points) Present data. Create a table of your results. Summarize the findings.</p>
+<p>(5 points) Evaluate/analyze/interpret the data. This means that you will create a graph, label the graph, and explain your findings.</p>
+<p>(2 points) Conclusion. describe your experience 1) designing , 2) implementing , and 3) evaluating the system. 4) List any issues you encountered while developing the system.&nbsp;</p>
+<p>(3 points) Stored data. Paste a picture of your stored data.</p>
+<p>(5 points) Paste your code here.</p>
+<p>SAVE the word document and upload. If you cannot upload it because of size, you will need to submit 2 documents. 1) pdf of the word document 2) zipped word document.</p></body></html>
